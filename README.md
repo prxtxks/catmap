@@ -1,6 +1,6 @@
-# CatMap v2
+# CatMap (v2)
 
-CatMap v2 is a campus parking navigation app currently being upgraded to provide **enhanced features** like **user login authentication**. The app helps users find the nearest parking lots, check real-time occupancy, and plan ahead.
+CatMap is a campus parking navigation app currently being upgraded to provide **enhanced features** like **user login authentication**. The app helps users find the nearest parking lots, check real-time occupancy, and plan ahead.
 
 ## User Interface
 
