@@ -29,10 +29,9 @@ CatMap v2 is a campus parking navigation app currently being upgraded to provide
    - Green → Available  
    - Yellow → Filling Up  
    - Red → Full  
-3. Click a pin to see detailed occupancy info.  
-4. **Future Prediction:** AI models forecast parking availability for the next 30–60 minutes.  
-5. **User Login:** Access personalized settings, saved preferences, and history.
-6.   
+3. Click a pin to see detailed occupancy info.
+4. . **User Login:** Access personalized settings, saved preferences, and history.
+
 
 ## Why CatMap v2 Matters
 
